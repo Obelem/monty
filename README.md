@@ -1,7 +1,10 @@
 # STACKS, QUEUES - LIFO, FIFO
-- Language: **C**
+- Language: **C**, **Monty**
 
-## Project Objectives
+## Project Aim
+To create an interpreter for Monty ByteCode files
+
+## Learning Objectives
 * Understand what **LIFO** and **FIFO** mean
 * Understand what a **stack** is and when to use it
 * Understand what a **queue** is and when to use it
